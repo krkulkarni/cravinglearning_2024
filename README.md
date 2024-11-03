@@ -3,9 +3,6 @@
 Contains analysis code for [https://doi.org/10.1101/2021.05.04.442433](https://doi.org/10.1101/2023.04.24.538109)
 
 Jupyter notebooks for analyses:
-* 1_Decoding_pipeline.ipynb (Main machine learning/decoding analysis)
-* 2_Interpretation_pipeline.ipynb (Network analysis of resulting models)
-* 3_Meta-analysis_pipeline.ipynb (Comparison of main results to meta-analysis map from Neurosynth)
 * 0_group_demographics.ipynb (Generate group demographic summary)
 * 0_model_free_metrics.ipynb (Generate model-agnostic metrics)
 * 1_decision_model_comparison.ipynb (Perform computational modeling of decision-making and model comparison)
