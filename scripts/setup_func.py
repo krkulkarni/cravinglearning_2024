@@ -32,13 +32,13 @@ warnings.filterwarnings('ignore')
 
 
 ### DEFINE PATHS
-root_dir = "/Users/kulkarnik/LocalProjects/nmh_code_repository/"
-data_dir = f'{root_dir}/data/'
+root_dir = "../"
+data_dir = f'{root_dir}/demo_data/'
 model_functions_path = f'{root_dir}/'
-decision_results_dir = f'{root_dir}/outputs_redux_v2/decision/'
-craving_results_dir = f'{root_dir}/outputs_redux_v2/craving/'
-figure_dir = f'{root_dir}/outputs_redux_v2/figures/'
-results_dir = f'{root_dir}/outputs_redux_v2/'
+decision_results_dir = f'{root_dir}/outputs/decision/'
+craving_results_dir = f'{root_dir}/outputs/craving/'
+figure_dir = f'{root_dir}/outputs/figures/'
+results_dir = f'{root_dir}/outputs/'
 ## Add model_functions to system path
 path.append(model_functions_path)
 
